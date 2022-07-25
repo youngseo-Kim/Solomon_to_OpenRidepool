@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Directory
-Instances
+instances/
 
 # Distribution / packaging
 .Python
